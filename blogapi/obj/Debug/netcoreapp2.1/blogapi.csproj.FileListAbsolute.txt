@@ -1,0 +1,14 @@
+C:\work\Lab\SimpleBlog.Net\blogapi\bin\Debug\netcoreapp2.1\blogapi.deps.json
+C:\work\Lab\SimpleBlog.Net\blogapi\bin\Debug\netcoreapp2.1\blogapi.runtimeconfig.json
+C:\work\Lab\SimpleBlog.Net\blogapi\bin\Debug\netcoreapp2.1\blogapi.runtimeconfig.dev.json
+C:\work\Lab\SimpleBlog.Net\blogapi\bin\Debug\netcoreapp2.1\blogapi.dll
+C:\work\Lab\SimpleBlog.Net\blogapi\bin\Debug\netcoreapp2.1\blogapi.pdb
+C:\work\Lab\SimpleBlog.Net\blogapi\obj\Debug\netcoreapp2.1\blogapi.csprojAssemblyReference.cache
+C:\work\Lab\SimpleBlog.Net\blogapi\obj\Debug\netcoreapp2.1\blogapi.csproj.CoreCompileInputs.cache
+C:\work\Lab\SimpleBlog.Net\blogapi\obj\Debug\netcoreapp2.1\blogapi.RazorAssemblyInfo.cache
+C:\work\Lab\SimpleBlog.Net\blogapi\obj\Debug\netcoreapp2.1\blogapi.RazorAssemblyInfo.cs
+C:\work\Lab\SimpleBlog.Net\blogapi\obj\Debug\netcoreapp2.1\blogapi.AssemblyInfoInputs.cache
+C:\work\Lab\SimpleBlog.Net\blogapi\obj\Debug\netcoreapp2.1\blogapi.AssemblyInfo.cs
+C:\work\Lab\SimpleBlog.Net\blogapi\obj\Debug\netcoreapp2.1\blogapi.RazorTargetAssemblyInfo.cache
+C:\work\Lab\SimpleBlog.Net\blogapi\obj\Debug\netcoreapp2.1\blogapi.dll
+C:\work\Lab\SimpleBlog.Net\blogapi\obj\Debug\netcoreapp2.1\blogapi.pdb
